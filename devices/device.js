@@ -6,7 +6,7 @@ module.exports = [
     'arduinoMega2560',
     'esp32',
     'arduinoEsp32',
-    'microPythonEsp32',
+    'esp32microPython',
     'esp8266NodeMCU',
     'arduinoEsp8266NodeMCU',
     'microPythonEsp8266NodeMCU',
